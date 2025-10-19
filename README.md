@@ -2,6 +2,8 @@
 <h3 align="center">Passionate about AI-driven defense and digital safety🔐| SecOps + AI🤖</h3>
 <ing  alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/03/hhhee.gif">
 <img align="right"width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f64c23cb-c3c6-40af-8f8a-dc177b3f7213" />
+<img align="right"width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/64df14f7-0098-4b9e-9af7-ce46644b5e2f" />
+
 
 
 
